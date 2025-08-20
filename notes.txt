@@ -1,0 +1,1 @@
+Estas são minhas anotações pessoais sobre o estudo de versionamento, este é apenas um arquivo de teste feito com os camandos <touch> e <nano>.
